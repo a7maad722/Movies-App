@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:movies_app/views/Tabs/browse_tab.dart';
-import 'package:movies_app/views/Tabs/home_tab.dart';
-import 'package:movies_app/views/Tabs/search_tab.dart';
-import 'package:movies_app/views/Tabs/watchlist_tab.dart';
+import 'package:movies_app/views/Tabs/Browse%20Tab/browse_tab.dart';
+import 'package:movies_app/views/Tabs/Home%20Tab/home_tab.dart';
+import 'package:movies_app/views/Tabs/Search%20Tab/search_tab.dart';
+import 'package:movies_app/views/Tabs/Watchlist%20Tab/watchlist_tab.dart';
 
 class HomeScreen extends StatefulWidget {
   static const String routeName = 'Home';
